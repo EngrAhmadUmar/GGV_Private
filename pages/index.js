@@ -3,7 +3,7 @@ import {
   HeroSection,
   About,
   JoinUs,
-  Partners
+  Partners,
 } from "../src/Components/HomePageComponents/Index";
 
 export default function Home() {
